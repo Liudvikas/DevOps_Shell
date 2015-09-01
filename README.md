@@ -21,7 +21,7 @@ Few features:
 Nearest future:
 - 
 - iPython shell;
-- cssh integration;
+- [cssh](http://sourceforge.net/projects/clusterssh/) integration;
 - Dynamic jQuery-like host selector depending on results;
 - Collaboration features;
 
