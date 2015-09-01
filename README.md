@@ -8,6 +8,7 @@
 Easy interface to many servers.
 Few features:
 -
+- Almost no learning curve for starters;
 - Very flexible shell to many servers;
 - Parallel/Serial execution;
 - Download/upload many files to/from remote systems at once in parallel/serial way;
@@ -20,6 +21,7 @@ Few features:
 Nearest future:
 - 
 - iPython shell;
+- cssh integration;
 - Dynamic jQuery-like host selector depending on results;
 - Collaboration features;
 
